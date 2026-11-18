@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="SMARTTAB_NEXT" header="SMARTTAB">
+		SmartTab_Next();
+	</Binding>
+	<Binding name="SMARTTAB_PREV">
+		SmartTab_Prev();
+	</Binding>
+</Bindings>

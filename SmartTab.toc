@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: SmartTab
+## Notes: Tab targeting by where you face and how far enemies are. Needs SuperWoW (UnitXP SP3 optional). /smarttab
+## Version: 1.0
+## SavedVariables: SmartTabDB, SmartTabLog
+SmartTab.lua
+SmartTabUI.lua
